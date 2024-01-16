@@ -148,7 +148,7 @@ int main()
 	// Setting System
 	// random_device rd;
 	int jmlhcoin = 0;
-	int level = 3;
+	int level = 1;
 	slSetFont(font, 40);
 	bool gameOver = false;
 
